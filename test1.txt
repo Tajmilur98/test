@@ -1,3 +1,4 @@
 this is test1
 This is second line added from remote
 This is added from branch feature2.
+Issue-1 is resolved
