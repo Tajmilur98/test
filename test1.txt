@@ -2,3 +2,5 @@ this is test1
 This is second line added from remote
 This is added from branch feature2.
 Issue-1 is resolved using id #2
+This is added from feature2 branch to create a conflict
+Merge conflict is resolved
